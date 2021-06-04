@@ -1,0 +1,7 @@
+---
+ja:
+  activemodel:
+    attributes:
+      'review_input/comments':
+        body: コメントの本文
+        path: コメントのパス

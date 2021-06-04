@@ -1,0 +1,8 @@
+---
+ja:
+  activemodel:
+    attributes:
+      review_input:
+        body: 本文
+        commit_id: コミットハッシュ
+        event: イベント
